@@ -1,15 +1,15 @@
-{
-        {
-            id: "v3.0.0",
-            tag: "OTRP 3.0 Release",
-            dateISO: "2025-09-01T18:00:00Z",
-            items: [
-                "Complete overhaul of the inventory, UI, menus, etc",
-                "Brand new heist system with dynamic locations and contracts",
-                "Modular drugs system with lots of new drug types",
-                "Revamped economy with new jobs and businesses",
-                "New MLOs for all major locations",
-            ],
-            author: "OverTime RP Team"
-        }
-}
+[
+    {
+        "id": "v3.0.0",
+        "tag": "OTRP 3.0 Release",
+        "dateISO": "2025-09-01T18:00:00Z",
+        "items": [
+            "Complete overhaul of the inventory, UI, menus, etc",
+            "Brand new heist system with dynamic locations and contracts",
+            "Modular drugs system with lots of new drug types",
+            "Revamped economy with new jobs and businesses",
+            "New MLOs for all major locations"
+        ],
+        "author": "OverTime RP Team"
+    }
+]
