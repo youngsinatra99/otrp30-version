@@ -1,4 +1,4 @@
-{
+[
         {
             id: "v3.0.0",
             tag: "OTRP 3.0 Release",
@@ -12,4 +12,4 @@
             ],
             author: "OverTime RP Team"
         }
-}
+]
